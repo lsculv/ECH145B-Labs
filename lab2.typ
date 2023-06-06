@@ -1,4 +1,4 @@
-#import "template.typ": *
+#import "memo.typ": *
 
 #set math.equation(numbering: "(1)")
 #set enum(indent: 20pt)
